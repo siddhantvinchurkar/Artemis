@@ -48,7 +48,7 @@ If you're sitting in front of a powerful machine with [TensorFlow](https://www.t
 
 2. *If you don't want to use the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset") replace the contents of the* ```data/``` *directory with your own .enc and .dec files.*
 
-3. *In the* ```seq2seq.ini``` *file, set* ```mode=train``` *and save the it.*
+3. *In the* ```seq2seq.ini``` *file, set* ```mode=train``` *and save it.*
 
 4. *Run the following command →*
 
