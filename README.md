@@ -42,7 +42,7 @@ Check it out over [here](https:artemisai.tk "Artemis")!
 
 # Training Artemis
 
-If you're sitting in front of a powerful machine with [TensorFlow](https://www.tensorflow.org/ "TensorFlow") GPU installed, you can continue reading this section.
+If you're sitting in front of a powerful machine with **[TensorFlow](https://www.tensorflow.org/ "TensorFlow")** GPU installed, you can continue reading this section.
 
 1. *Empty out the contents of the* ```working_dir/``` *directory.*
 
