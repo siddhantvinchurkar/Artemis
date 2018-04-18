@@ -60,6 +60,6 @@ If you're sitting in front of a powerful machine with **[TensorFlow](https://www
 
 * A cool thanks to [Suriyadeepan Ramamoorthy](https://github.com/suriyadeepan "Suriyadeepan Ramamoorthy") for writing a majority of this code.
 * A shoutout to [Chris Fauerbach](https://github.com/chrisfauerbach "Chris Fauerbach") for the edits that make this code work on **[TensorFlow](https://www.tensorflow.org/ "TensorFlow") 1.7**.
-* A bow to [Siraj Raval](https://github.com/llSourcell "Siraj Raval") for the amazing video on [YouTube](https://www.youtube.com/watch?v=SJDEOWLHYVo&feature=youtu.be) →
+* A bow to [Siraj Raval](https://github.com/llSourcell "Siraj Raval") for this amazing video on [YouTube](https://www.youtube.com/watch?v=SJDEOWLHYVo&feature=youtu.be) →
 
 [![How to Make an Amazing Tensorflow Chatbot Easily](http://img.youtube.com/vi/SJDEOWLHYVo/0.jpg)](http://www.youtube.com/watch?v=SJDEOWLHYVo "How to Make an Amazing Tensorflow Chatbot Easily")
