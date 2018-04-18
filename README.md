@@ -44,11 +44,11 @@ Check it out over [here](https:artemisai.tk "Artemis")!
 
 If you're sitting in front of a powerful machine with [TensorFlow](https://www.tensorflow.org/ "TensorFlow") GPU installed, you can continue reading this section.
 
-1. *Empty out the contents of the ```working_dir/``` directory.*
+1. *Empty out the contents of the* ```working_dir/``` *directory.*
 
-2. *If you don't want to use the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset") replace the contents of the ```data/``` directory with your own .enc and .dec files.*
+2. *If you don't want to use the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset") replace the contents of the* ```data/``` *directory with your own .enc and .dec files.*
 
-3. *In the ```seq2seq.ini``` file, set ```mode=train``` and save the it.*
+3. *In the* ```seq2seq.ini``` *file, set* ```mode=train``` *and save the it.*
 
 4. *Run the following command →*
 
