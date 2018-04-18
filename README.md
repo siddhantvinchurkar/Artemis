@@ -44,17 +44,17 @@ Check it out over [here](https:artemisai.tk "Artemis")!
 
 If you're sitting in front of a powerful machine with [TensorFlow](https://www.tensorflow.org/ "TensorFlow") GPU installed, you can continue reading this section.
 
-1. *Empty out the contents of * ```working_dir/``` *directory.*
+1. *Empty out the contents of the ```working_dir/``` directory.*
 
-2. *If you don't want to use the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset") replace the contents of the* ```data/``` *directory with your own .enc and .dec files.*
+2. *If you don't want to use the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset") replace the contents of the ```data/``` directory with your own .enc and .dec files.*
 
-3. *In the * ```seq2seq.ini``` *file, set * ```mode=train``` and save the it.
+3. *In the ```seq2seq.ini``` file, set ```mode=train``` and save the it.*
 
 4. *Run the following command →*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(tensorflow)user@somecomputer:~$** ```python3 execute.py```
 
-5. *If you're using the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset")* to train the model on an [Nvidia Tesla K80](https://www.nvidia.com/en-us/data-center/tesla-k80/ "Nvidia Tesla K80"), about 10 hours of training should yield decent results.
+5. *If you're using the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset") to train the model on an [Nvidia Tesla K80](https://www.nvidia.com/en-us/data-center/tesla-k80/ "Nvidia Tesla K80"), about 10 hours of training should yield decent results.*
 
 # Credits
 
