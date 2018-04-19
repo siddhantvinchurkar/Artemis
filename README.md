@@ -3,7 +3,7 @@
 
 Artemis is an artificially intelligent chatbot trained on the [Cornell Movie-Dialog Corpus dataset](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html "Cornell Movie-Dialog Corpus dataset").
 
-Check it out over [here](https:artemisai.tk "Artemis")!
+Check it out over [here](https://artemisai.tk "Artemis")!
 
 # Quick Start
 
