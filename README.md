@@ -44,7 +44,7 @@ Check it out over [here](https://artemisai.tk "Artemis")!
 
 If you're sitting in front of a powerful machine with **[TensorFlow](https://www.tensorflow.org/ "TensorFlow")** GPU installed, you can continue reading this section.
 
-If you don't have access to a powerful machine, you could try [Google Colaboratory](https://colab.research.google.com/ "Google Colaboratory"). Once you've created a new notebook, go to ```Edit```>```Notebook settings``` and change the hardware accelerator to GPU. Congratulations. You now have a powerful machine with an [Nvidia Tesla K80](https://www.nvidia.com/en-us/data-center/tesla-k80/ "Nvidia Tesla K80"). Now execute the following lines of code to prepare the environment →
+If you don't have access to a powerful machine, you could try **[Google Colaboratory](https://colab.research.google.com/ "Google Colaboratory")**. Once you've created a new notebook, go to ```Edit```>```Notebook settings``` and change the hardware accelerator to GPU. Congratulations. You now have a powerful machine with an **[Nvidia Tesla K80](https://www.nvidia.com/en-us/data-center/tesla-k80/ "Nvidia Tesla K80")**. Now execute the following lines of code to prepare the environment →
 
 ```python
 !git clone https://github.com/siddhantvinchurkar/Artemis.git
